@@ -1,0 +1,1 @@
+O objetivo do programa é que apos uma serie de entradas, todas numeros, ele realiza um calculo e mostra quantos desse numeros sao multipos de 2,3,4 ou 5.
